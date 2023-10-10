@@ -1,6 +1,6 @@
 {
     "version": 8,
-    "name": "Streets-copy",
+    "name": "Streets-WHO",
     "metadata": {
         "mapbox:type": "default",
         "mapbox:origin": "streets-v12",
@@ -88,8 +88,9 @@
                 "collapsed": true
             }
         },
+        "mapbox:uiParadigm": "layers",
         "mapbox:decompiler": {
-            "id": "clnkw30cc002j01p5cv8u5dow",
+            "id": "clnkw5bfw002k01pf0szbb5cg",
             "componentVersion": "18.0.0",
             "strata": [
                 {
@@ -206,8 +207,7 @@
                 },
                 "buildings": {"colorBase": "hsl(20, 20%, 95%)"}
             }
-        },
-        "mapbox:uiParadigm": "layers"
+        }
     },
     "center": [93.79750052734732, 22.804136246004493],
     "zoom": 2.3463163325447374,
@@ -6964,10 +6964,10 @@
         }
     ],
     "created": "2023-10-10T22:25:59.085Z",
-    "modified": "2023-10-10T22:25:59.900Z",
+    "modified": "2023-10-10T22:36:24.339Z",
     "id": "clnkw5bfw002k01pf0szbb5cg",
     "owner": "nandkishor8291",
-    "visibility": "private",
+    "visibility": "public",
     "protected": false,
     "draft": false
 }
